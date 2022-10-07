@@ -678,7 +678,8 @@ address {
 .footer-form__btn:hover, .footer-form__btn:focus {
   background-color: #188ce8;
 }
-.footer-form__btn svg {
+
+.footer-form__svg {
   position: absolute;
   top: 13px;
   right: 28px;

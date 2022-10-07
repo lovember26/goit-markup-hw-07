@@ -127,10 +127,10 @@ address {
   &:focus {
     background-color: #188ce8;
   }
-  & svg {
-    position: absolute;
-    top: 13px;
-    right: 28px;
-    fill: var(--icons-white);
-  }
+}
+.footer-form__svg {
+  position: absolute;
+  top: 13px;
+  right: 28px;
+  fill: var(--icons-white);
 }
